@@ -2121,6 +2121,11 @@
   resolved "https://registry.yarnpkg.com/@parcel/css-linux-x64-musl/-/css-linux-x64-musl-1.10.1.tgz#6fa866b0512f6a48634491c0a1152c3ffa4aef84"
   integrity sha512-arjLARo/3l0uwPf5qYxCkrS0FTE8n6JH/S1/7DitvhG22fsZdJTGPwe4MYLTIn4s3QXLOVVRrkPDZlUPM1yjFA==
 
+"@parcel/css-wasm@^1.10.1":
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/@parcel/css-wasm/-/css-wasm-1.10.1.tgz#9a17734db9dd2aecb0ae9cd7a15419eeaa0224a6"
+  integrity sha512-VG86JRZ7MwmLqzNiuSLAvR7muKDzPvJJeAX51hiYmLRcGN6ecfSutpBa3kF5Mkc+bAUnDBsl6n8OQvk4LdUgGw==
+
 "@parcel/css-win32-x64-msvc@1.10.1":
   version "1.10.1"
   resolved "https://registry.yarnpkg.com/@parcel/css-win32-x64-msvc/-/css-win32-x64-msvc-1.10.1.tgz#299642511b3f203ac55c2f783a880a5718ab0787"
